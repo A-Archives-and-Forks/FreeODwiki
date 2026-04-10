@@ -1,4 +1,4 @@
-```markdown
+
 3-CMC
 [◀返回](./home.md)
 
@@ -216,4 +216,3 @@
 7. [↑](#cite_ref-7) Wojcieszak, Jakub & Kuczyńska, Katarzyna & Zawilska, Jolanta. (2020). Four Synthetic Cathinones: 3-Chloromethcathinone, 4-Chloromethcathinone, 4-Fluoro-α-Pyrrolidinopentiophenone, and 4-Methoxy-α-Pyrrolidinopentiophenone Produce Changes in the Spontaneous Locomotor Activity and Motor Performance in Mice with Varied Profiles. Neurotoxicity Research. 38. 10.1007/s12640-020-00227-8.
 8. [↑](#cite_ref-8) [*Arrêté du 22 février 1990 fixant la liste des substances classées comme stupéfiants*](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000533085/2020-11-20/) 
 9. [↑](#cite_ref-9) <https://www.officielebekendmakingen.nl/stb-2023-289.html>
-```
