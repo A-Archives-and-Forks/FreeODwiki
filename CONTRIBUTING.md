@@ -14,15 +14,19 @@ description: 出一份力为我们FreeODwiki做出贡献吧，我们欢迎你来
 
 如欲参与FreeODwiki的Github仓库编辑，请留意你用于编辑的Github账号绑定的邮箱。合作者可以看到你的这个邮箱，可能造成个人信息意外泄露。而且，编辑敏感信息时请务必使用隐私程度较高的邮箱，这样一来，你泄露的邮箱将难以被追踪者用于破解你的个人隐私。
 
+编辑敏感信息时，请一定要保护好个人隐私：不主动问别人的个人信息、不发布自己或别人的个人信息、做好数据脱敏处理。
+
 ## 参与流程
 
-提交文档很简单，不需要电脑，手机就行。不涉及任何命令行操作，这里给一个简单的视频教程，[点击这里查看](https://x.com/SalviaSWC/status/2001249359095386327)。
+其实，在Github上编辑纯文本项目是无门槛的。只要你会用office、能做ppt、能写word文档，你就能立刻上手Github。对此，请不要有心理压力哦！
 
-<mark>**[点击这里](https://docs.github.com/zh/repositories/working-with-files/managing-files/editing-files)查看官方发布的，如何通过Github网页端进行编辑的教程。**</mark>
+编辑文档和提交新文档很简单，不需要电脑。你只需要一部手机和互联网。不涉及任何命令行操作，这里给一个简单的视频教程，[点击这里查看](https://x.com/SalviaSWC/status/2001249359095386327)。
+
+<mark>**[点击这里](https://docs.github.com/zh/repositories/working-with-files/managing-files/editing-files)查看Github官方的如何通过Github网页端进行编辑的教程。**</mark>
 
 以下为涉贡献的文档名及其链接，如有疑问，请点击查看：
 
-|涉贡献文档|描述|
+|文档|描述|
 |--|--|
 |[本站精神](/关于本站/本站精神.md) | 请确保你的编辑符合本站的精神和宗旨哦！|
 |[如何做出你的第一个贡献](/关于本站/如何做出你的第一个贡献.md) | 如果你想参与的话，这里有一个简单的教程哦！|
