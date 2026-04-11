@@ -7,8 +7,8 @@ description:
 
 [◀返回](/文档/home.md)
 
-| D-柠檬烯食醋"全谱"DMT提取术 |
-| --- |
+| D-柠檬烯食醋"全谱"DMT提取术 | |
+| --- | --- |
 | [![DMT.png](/文件/DMT.png)](/药物/DMT.md) |
 | **化学命名法** |
 | 通用名称 | *DMT, N,N-DMT, Dmitry, The Glory, The Spirit Molecule* |
