@@ -11,8 +11,8 @@ description:
 
 [![](/文件/Dialog-warning.png.png)](/文件/Dialog-warning.png.png) **警告：5-MeO-DMT *不是* DMT 的有效替代品喵。** 尽管它们的名字看起来很像，但 5-MeO-DMT 和 [DMT](./DMT.md "DMT") 有着截然不同的效应和风险概况，应当被视为完全独立的两种东西喵。请查看[这一部分](#毒性和危害性 "5-MeO-DMT")以获取更多信息。
 
-| **5-MeO-DMT 信息摘要** |
-| --- |
+| **5-MeO-DMT 信息摘要** | |
+| --- | --- |
 | [![5-MeO-DMT.png](/文件/5-MeO-DMT.png)](/文件/5-MeO-DMT.png) |
 | **化学命名** |
 | 通用名称 | *5-MeO-DMT, 上帝分子 (The God Molecule), 蟾蜍 (Toad), 美洲虎 (Jaguar)* |
