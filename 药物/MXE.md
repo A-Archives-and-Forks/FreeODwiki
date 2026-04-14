@@ -3,9 +3,9 @@ title: MXE
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
 # 甲氧胺酮
+
+[◀返回](/药物/home.md)
 
 > 外国论坛网友心目中的解离剂的白月光
 

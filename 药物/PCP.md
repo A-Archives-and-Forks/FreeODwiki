@@ -3,9 +3,9 @@ title: PCP
 description: 
 ---
 
-[◀返回](./home.md)
-
 # PCP
+
+[◀返回](./home.md)
 
 **PCP 可能比其他[解离剂](/文档/药物分类/解离剂.md)更频繁地引发[精神病发作](/药效/精神病发作.md)和[躁狂](/药效/躁狂.md)呢。[\[1\]](#cite_note-Luisada1978-1)[\[2\]](#cite_note-Tasman2015-2)**
 

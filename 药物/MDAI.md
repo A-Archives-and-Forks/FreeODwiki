@@ -3,9 +3,9 @@ title: MDAI
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
 # MDAI
+
+[◀返回](/药物/home.md)
 
 
 

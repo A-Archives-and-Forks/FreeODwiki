@@ -3,9 +3,9 @@ title: noopept
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
 # Omberacetam
+
+[◀返回](/药物/home.md)
 
 
 

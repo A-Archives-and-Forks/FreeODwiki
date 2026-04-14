@@ -3,9 +3,9 @@ title: 2C-E
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
 # 2C-E
+
+[◀返回](/药物/home.md)
 
 ---
 

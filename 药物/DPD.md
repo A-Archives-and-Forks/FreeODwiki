@@ -3,9 +3,9 @@ title: DPD
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
 # 二苯尼定
+
+[◀返回](/药物/home.md)
 
 不要与[苯海拉明](/药物/苯海拉明.md)（也被称为“DPH”）混淆。
 

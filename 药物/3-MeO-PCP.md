@@ -3,9 +3,9 @@ title: 3-MeO-PCP
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
 # 3-MeO-PCP
+
+[◀返回](/药物/home.md)
 
 <mark> 还行
 

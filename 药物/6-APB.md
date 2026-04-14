@@ -5,9 +5,9 @@ description:
 
 FreeODwiki/药物/6-APB.md
 
-[◀返回](/药物/home.md)
-
 # 6-APB
+
+[◀返回](/药物/home.md)
 
 ---
 

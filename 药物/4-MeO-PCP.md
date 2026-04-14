@@ -3,9 +3,9 @@ title: 4-MeO-PCP
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
 # 4-MeO-PCP
+
+[◀返回](/药物/home.md)
 
 
 

@@ -1,7 +1,6 @@
+# PiHKAL
 
 [◀返回](./home.md)
-
-# PiHKAL
 
 [Commons-emblem-notice.png](/文件/Commons-emblem-notice.png) 关于[给药途径](/文档/给药途径.md)的小贴士喵：在 PiHKAL 里，没有任何一个体验报告是关于抽吸或雾化苯乙胺类化合物的哦。不过呢，书中没有列出的 [25I-NBOMe](/药物/25I-NBOMe.md)（一种[苯乙胺类物质](/文档/药物分类/苯乙胺类物质.md)，虽然毒性很大）是有抽吸使用的记录的呢。[\[1\]](#cite_note-erowid_effects-1)
 

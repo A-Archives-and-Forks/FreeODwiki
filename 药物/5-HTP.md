@@ -3,9 +3,9 @@ title: 5-HTP
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
 # 5-羟基色氨酸
+
+[◀返回](/药物/home.md)
 
 
 

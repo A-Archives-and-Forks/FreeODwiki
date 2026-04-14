@@ -3,9 +3,9 @@ title: DOC
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
 # DOC
+
+[◀返回](/药物/home.md)
 
 
 

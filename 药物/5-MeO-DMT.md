@@ -3,9 +3,9 @@ title: 5-MeO-DMT
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
 # 5-MeO-DMT
+
+[◀返回](/药物/home.md)
 
 
 

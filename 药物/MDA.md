@@ -3,10 +3,9 @@ title: MDA
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
-
 # MDA
+
+[◀返回](/药物/home.md)
 
 </mark> 还好<mark>
 

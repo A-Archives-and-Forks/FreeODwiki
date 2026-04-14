@@ -3,12 +3,9 @@ title: 5-MeO-DiPT
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
-
-
-
 # 5-MeO-DiPT
+
+[◀返回](/药物/home.md)
 
 | 5-MeO-DiPT | |
 | --- | --- |

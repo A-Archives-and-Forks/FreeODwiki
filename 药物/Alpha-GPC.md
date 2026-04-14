@@ -3,9 +3,9 @@ title: Alpha-GPC
 description: 
 ---
 
-[◀返回](/药物/home.md)
-
 # Alpha-GPC
+
+[◀返回](/药物/home.md)
 
 
 
