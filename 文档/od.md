@@ -1369,7 +1369,7 @@ Spring风之死在OD圈引起了巨大的反响。最直观的是，它带来了
 
 然而，即将紧接着发生的一个事件则是震惊到令人发指，直接导致了他的退圈。
 
-<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">**鸡哥**，也就是当初拉他出来建overdosewiki的那位，背刺了后藤，原因不明。此后，他夺取的了分裂出了另一个百科——而那个百科就是如今的<img src="../文件/化学极乐百科.jpg" style="height:25px;vertical-align:top;">[化学极乐百科](overdose.day)。以下【已编辑】中指的人就是<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥。
+<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">**鸡哥**，也就是当初拉他出来建overdosewiki的那位，背刺了后藤，原因不明。此后，他夺取的了分裂出了另一个百科——而那个百科就是如今的<img src="../文件/化学极乐百科.jpg" style="height:25px;vertical-align:top;">**化学极乐百科**。以下【已编辑】中指的人就是<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥。
 
 请看后藤的叙述，看他是如何在<img src="../文件/鸡哥头像.jpg" style="height:25px;     vertical-align:top;">鸡哥的攻击下走向失控的：
 
